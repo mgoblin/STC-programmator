@@ -11,9 +11,22 @@ Programmator used with USB-2-TTL adapter. CHG340g is used as USB-2-TTL adapter.
 
 CHG340g connect to PC USB port, programmator is placed between CGH340g and STC MCU. 
 
-## How to connect programator
+## How to connect programmator
+J1 for USB adapter
+ - J1 +5V pin should be connected to USB adapter +5V pin.
+ - J1 GND pin should be connected to USB adapter GND pin.
+ - J1 TxD pin should be connected to USB adapter TxD pin.
+ - J1 RxD pin should be connected to USB adapter RxD pin.
 
-# Upload firmare from Platfromio to MCU
+J2 for MCU 
+ - J2 +5V pin should be connected to MCU +5V pin.
+ - J2 GND pin should be connected to MCU GND pin.
+ - J2 TxD pin should be connected to MCU TxD pin.
+ - J2 RxD pin should be connected to MCU RxD pin.
+
+**Inside programmator USB TxD is routed to MCU RxD and USB RxD is routed to MCU TxD pin.**
+
+## Upload firmare from Platfromio to MCU
 
 # Electrical sheme
 
