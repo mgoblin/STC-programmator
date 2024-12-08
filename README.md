@@ -29,7 +29,10 @@ J2 for MCU
 **Inside programmator USB TxD is routed to MCU RxD and USB RxD is routed to MCU TxD pin.**
 
 ## Upload firmare from Platfromio to MCU
-[Plaformio] (https://platformio.org/) is a popular embedded software development IDE based on [Visual Studio Code](https://code.visualstudio.com/)
+[Plaformio] (https://platformio.org/) is a popular embedded software development IDE based on [Visual Studio Code](https://code.visualstudio.com/).
+
+Platfromio use [stcgal](https://github.com/grigorig/stcgal/) to upload firmware. 
+
 
 # Electrical sheme
 
