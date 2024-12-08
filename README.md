@@ -27,7 +27,7 @@ USB adapter +5V connected to button SW1 and jumper JP1.
 If the jumper JP1 is shorted, the microcontroller runs the loaded firmware and cannot be programmed.
 In firmware download mode, the jumper is open and power is supplied only when the SW1 button is pressed and held.
 
-
+Capacitors C1-C3 debounce of the SW1 button.
 
 # PCB design
 ![PCB front](/images/STC15_programmator_front.jpg)
