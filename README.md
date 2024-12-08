@@ -1,4 +1,4 @@
-STC programmator to flash hex firmare
+STC programmator to upload hex firmare to MCU flash.
 
 This repo contains kicad electrical scheme, pcb design and description.
 
@@ -10,6 +10,10 @@ Programmator used with USB-2-TTL adapter. CHG340g is used as USB-2-TTL adapter.
 ![CHG340g](/images/ch340g.jpeg)
 
 CHG340g connect to PC USB port, programmator is placed between CGH340g and STC MCU. 
+
+## How to connect programator
+
+# Upload firmare from Platfromio to MCU
 
 # Electrical sheme
 
