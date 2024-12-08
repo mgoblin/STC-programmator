@@ -24,6 +24,8 @@ J2 for MCU
  - J2 TxD pin should be connected to MCU TxD pin.
  - J2 RxD pin should be connected to MCU RxD pin.
 
+   Jumper J1 is opened.
+
 **Inside programmator USB TxD is routed to MCU RxD and USB RxD is routed to MCU TxD pin.**
 
 ## Upload firmare from Platfromio to MCU
@@ -35,7 +37,8 @@ J2 for MCU
 Scheme contains to important parts: TxD-RxD part and VCC part.
 
 ## TxD-RxD part
-The principle of c
+The principle of connection between MCU and USB adapter is RxD <-> TxD.
+R1 and D1 are used to eliminate parasitic power supply through the pins to the microcontroller. 
 
 ## VCC part
 The MCU is powered via USB-2-TTL adapter. MCU GND connect to USB adapter GND.
