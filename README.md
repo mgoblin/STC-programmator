@@ -4,6 +4,8 @@ This repo contains kicad electrical scheme, pcb design and description.
 
 The electrical scheme and PCB design are a Kicad files. 
 
+![Prorgammator](/images/programmator_view.jpg)
+
 # Programmator usage
 Programmator used with USB-2-TTL adapter. CHG340g is used as USB-2-TTL adapter.
 
