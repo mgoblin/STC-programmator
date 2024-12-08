@@ -39,14 +39,20 @@ Platfromio use [stcgal](https://github.com/grigorig/stcgal/) to upload firmware.
 4. Connect USB adapter to PC.
 5. In Platfromio start upload. The most popular way to do this is press upload button
 6. Platformio open terminal panel and output upload status as a messages to it
-7. Waiting for "Cycling power: done" message. Uploading process waiting. 
-8. Press and hold the SW1 button on the programmer until the download process is complete.
-9. Uploading proccess completes with messages
-1
-Finishing write: done
-Setting options: done
-Target UID: <MCU chipid here>
-Disconnected!
+7. Waiting for "Cycling power: done" message. Uploading process waiting.
+   > Cycling power: done
+9. Press and hold the SW1 button on the programmer until the download process is complete.
+10. Uploading proccess completes with messages
+
+>Finishing write: done
+>
+>Setting options: done
+>
+>Target UID: <MCU chipid here>
+
+>Disconnected!
+>
+11. You can release the button or hold it if you want to see how the downloaded firmware works.
 
 
 # Electrical sheme
