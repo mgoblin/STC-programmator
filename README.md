@@ -42,7 +42,7 @@ Platfromio use [stcgal](https://github.com/grigorig/stcgal/) to upload firmware.
 7. Waiting for "Cycling power: done" message. Uploading process waiting. 
 8. Press and hold the SW1 button on the programmer until the download process is complete.
 9. Uploading proccess completes with messages
-
+1
 Finishing write: done
 Setting options: done
 Target UID: <MCU chipid here>
