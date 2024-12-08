@@ -36,7 +36,17 @@ Platfromio use [stcgal](https://github.com/grigorig/stcgal/) to upload firmware.
 1. Connect USB adapter with programmator (see [How to connect programmator section](#How-to-connect-programmator)). JP1 jumper should be opened.
 2. Connect programmator to MCU pins. Developer boards and many PCB designs have dedicated pins.
 3. Run Platfromio and open your STC project with source code that will be compiled to firmware.
-4. In Platfromio start upload. Most popular way is to press upload button 
+4. Connect USB adapter to PC.
+5. In Platfromio start upload. The most popular way to do this is press upload button
+6. Platformio open terminal panel and output upload status as a messages to it
+7. Waiting for "Cycling power: done" message. Uploading process waiting. 
+8. Press and hold the SW1 button on the programmer until the download process is complete.
+9. Uploading proccess completes with messages
+
+Finishing write: done
+Setting options: done
+Target UID: <MCU chipid here>
+Disconnected!
 
 
 # Electrical sheme
