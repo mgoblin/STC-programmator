@@ -11,7 +11,7 @@ Programmator used with USB-2-TTL adapter. CHG340g is used as USB-2-TTL adapter.
 
 CHG340g connect to PC USB port, programmator is placed between CGH340g and STC MCU. 
 
-## How to connect programmator
+## How to connect programmator {#connect}
 J1 for USB adapter
  - J1 +5V pin should be connected to USB adapter +5V pin.
  - J1 GND pin should be connected to USB adapter GND pin.
@@ -32,6 +32,8 @@ J2 for MCU
 [Plaformio] (https://platformio.org/) is a popular embedded software development IDE based on [Visual Studio Code](https://code.visualstudio.com/).
 
 Platfromio use [stcgal](https://github.com/grigorig/stcgal/) to upload firmware. 
+
+1. Connect USB adapter with programmator (see [How to connect programmator section](#connect))
 
 
 # Electrical sheme
