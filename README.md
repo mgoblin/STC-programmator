@@ -33,6 +33,8 @@ J2 for MCU
 
 Platfromio use [stcgal](https://github.com/grigorig/stcgal/) to upload firmware. 
 
+Jumper J1 should be opened before uploading start. 
+
 1. Connect USB adapter with programmator (see [How to connect programmator section](#How-to-connect-programmator)). JP1 jumper should be opened.
 2. Connect programmator to MCU pins. Developer boards and many PCB designs have dedicated pins.
 3. Run Platfromio and open your STC project with source code that will be compiled to firmware.
@@ -53,6 +55,7 @@ Platfromio use [stcgal](https://github.com/grigorig/stcgal/) to upload firmware.
 >Disconnected!
 >
 10. You can release the button or hold it if you want to see how the downloaded firmware works.
+11. For permanently firmware execution close J1 jumper
 
 
 # Electrical sheme
