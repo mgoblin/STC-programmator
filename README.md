@@ -75,7 +75,7 @@ Jumper J1 should be opened before uploading start.
 
 ![Programmator scheme](/images/STC15_programmator_scheme.png)
 
-Scheme contains to important parts: TxD-RxD part and VCC part.
+Scheme contains two important parts: TxD-RxD part and VCC part.
 
 ## TxD-RxD part
 The principle of connection between MCU and USB adapter is RxD <-> TxD.
