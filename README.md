@@ -14,6 +14,7 @@ The electrical scheme and PCB design are a Kicad files.
   * [TxD-RxD part](https://github.com/mgoblin/STC-programmator/blob/main/README.md#txd-rxd-part)
   * [VCC part](https://github.com/mgoblin/STC-programmator#vcc-part)
 * [PCB design](https://github.com/mgoblin/STC-programmator/tree/main?tab=readme-ov-file#pcb-design)
+* [Alternative path](https://github.com/mgoblin/STC-programmator/blob/main/README.md#alternative-path)
 
 ![Prorgammator](/images/programmator_view.jpg)
 
