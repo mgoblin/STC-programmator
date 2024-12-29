@@ -7,11 +7,11 @@ STC is a family of microcontrollers with 8051 architecture.
 The electrical scheme and PCB design are a Kicad files. 
 
 # Table of contents
-[Programmator usage](https://github.com/mgoblin/STC-programmator/edit/main/README.md#programmator-usage)
+[Programmator usage](https://github.com/mgoblin/STC-programmator/main/README.md#programmator-usage)
 
-[Electrical sheme](https://github.com/mgoblin/STC-programmator/edit/main/README.md#electrical-sheme)
+[Electrical sheme](https://github.com/mgoblin/STC-programmator/main/README.md#electrical-sheme)
 
-[PCB design](https://github.com/mgoblin/STC-programmator/edit/main/README.md#pcb-design)
+[PCB design](https://github.com/mgoblin/STC-programmator/main/README.md#pcb-design)
 
 ![Prorgammator](/images/programmator_view.jpg)
 
