@@ -1,6 +1,6 @@
-STC programmator to upload hex firmare to MCU flash.
+# STC programmator to upload hex firmare to MCU flash.
 
-This repo contains kicad electrical scheme, pcb design and description.
+This repo contains kicad electrical scheme, pcb design and description of STC programmator.
 
 The electrical scheme and PCB design are a Kicad files. 
 
