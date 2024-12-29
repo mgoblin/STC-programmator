@@ -2,6 +2,8 @@
 
 This repo contains kicad electrical scheme, pcb design and description of STC programmator.
 
+STC is a family of microcontrollers with 8051 architecture.
+
 The electrical scheme and PCB design are a Kicad files. 
 
 ![Prorgammator](/images/programmator_view.jpg)
