@@ -9,7 +9,7 @@ The electrical scheme and PCB design are a Kicad files.
 # Table of contents
 [Programmator usage](https://github.com/mgoblin/STC-programmator/tree/main?tab=readme-ov-file#programmator-usage)
 
-[Electrical sheme] (https://github.com/mgoblin/STC-programmator/tree/main?tab=readme-ov-file#electrical-sheme)
+[Electrical sheme](https://github.com/mgoblin/STC-programmator/tree/main?tab=readme-ov-file#electrical-sheme)
 
 [PCB design](https://github.com/mgoblin/STC-programmator/tree/main/README.md#pcb-design)
 
