@@ -97,3 +97,9 @@ But i have only 100mF capasitors and connect it in a chain to get 50mF capacity.
 ![PCB front](/images/STC15_programmator_front.jpg)
 
 ![PCB back](/images/STC15_programmator_back.jpg)
+
+# Alternative path 
+You can upload firmware to STC MCU with USB-To-TTL adapter only.
+
+For this way disconnect GND wire from MCU and start firware upload.
+When stcgal out will be "Cycling power: done" connect GND from adapter to MCU.  
