@@ -11,6 +11,7 @@ The electrical scheme and PCB design are a Kicad files.
   * [How to connect programmator](https://github.com/mgoblin/STC-programmator/tree/main#how-to-connect-programmator)
   * [Upload firmare from Platfromio to MCU](https://github.com/mgoblin/STC-programmator#upload-firmare-from-platfromio-to-mcu)
 * [Electrical sheme](https://github.com/mgoblin/STC-programmator/tree/main?tab=readme-ov-file#electrical-sheme)
+  *[TxD-RxD part](https://github.com/mgoblin/STC-programmator/blob/main/README.md#txd-rxd-part) 
 * [PCB design](https://github.com/mgoblin/STC-programmator/tree/main?tab=readme-ov-file#pcb-design)
 
 ![Prorgammator](/images/programmator_view.jpg)
