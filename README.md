@@ -16,11 +16,13 @@ The electrical scheme and PCB design are a Kicad files.
 ![Prorgammator](/images/programmator_view.jpg)
 
 # Programmator usage
-Programmator used with USB-2-TTL adapter. CHG340g is used as USB-2-TTL adapter.
+Programmator used with USB-2-TTL adapter. 
+
+CHG340g is a popular USB-2-TTL adapter.
 
 ![CHG340g](/images/ch340g.jpeg)
 
-CHG340g connect to PC USB port, programmator is placed between CGH340g and STC MCU. 
+CHG340g should be connected to PC USB port and programmator is placed between CGH340g and STC MCU. 
 
 ## How to connect programmator
 J1 for USB adapter
